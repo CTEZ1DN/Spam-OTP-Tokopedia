@@ -1,3 +1,5 @@
+Clear
+
 try:
      #from requests import get, post
      import requests, re
